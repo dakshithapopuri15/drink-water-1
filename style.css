@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap");
+ @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 
 :root {
   --border-color: #144fc6;
@@ -10,9 +10,9 @@
 }
 
 body {
-  background-color: #3494e4;
+  background-color: #ff5733;  /* New background color */
   color: #fff;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto", sans-serif;  /* Changed font to Roboto */
   display: flex;
   flex-direction: column;
   align-items: center;
